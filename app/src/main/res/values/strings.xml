@@ -1,5 +1,5 @@
 <resources>
-    <string name="tfe_pe_app_name">TFL Pose Estimation</string>
+    <string name="tfe_pe_app_name">FitFrame</string>
     <string name="tfe_pe_request_permission">This app needs camera permission.</string>
     <string name="tfe_pe_tv_score">Score: %.2f</string>
     <string name="tfe_pe_tv_model">Model: </string>
@@ -17,4 +17,13 @@
         <item>GPU</item>
         <item>NNAPI</item>
     </string-array>
+    <string name="app_name">FitFrame</string>
+    <string name="create_account">Create Account</string>
+    <string name="or">or</string>
+    <string name="sign_in">Sign In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">E-Mail</string>
+    <string name="you_are_signed_in">You are signed in</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
